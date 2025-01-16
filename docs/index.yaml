@@ -3,32 +3,32 @@ entries:
   expressjs-k8s:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-01-16T19:24:01.491813+01:00"
+    created: "2025-01-16T19:38:51.262243+01:00"
     description: A Helm chart for Kubernetes
     digest: 2fab8d6d575213c6811cfe706edc4df0aff19b3b098ec54f77553a1e7c4768df
     name: expressjs-k8s
     type: application
     urls:
-    - https://ravi-devarakonda.github.io/rd-js-app/expressjs-k8s-0.2.0.tgz
+    - expressjs-k8s-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-01-16T19:24:01.491536+01:00"
+    created: "2025-01-16T19:38:51.261737+01:00"
     description: A Helm chart for Kubernetes
     digest: 0540ee034f8cbe9f9f4dd86f35c2cf1fb61081cc719c97d6f14c2c2b9b1b688b
     name: expressjs-k8s
     type: application
     urls:
-    - https://ravi-devarakonda.github.io/rd-js-app/expressjs-k8s-0.1.1.tgz
+    - expressjs-k8s-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-01-16T19:24:01.491229+01:00"
+    created: "2025-01-16T19:38:51.261323+01:00"
     description: A Helm chart for Kubernetes
     digest: b2cbae14eca3833dff54e42e0c6761e62cbbc88c3d7407dc427eb70e92e81ec2
     name: expressjs-k8s
     type: application
     urls:
-    - https://ravi-devarakonda.github.io/rd-js-app/expressjs-k8s-0.1.0.tgz
+    - expressjs-k8s-0.1.0.tgz
     version: 0.1.0
-generated: "2025-01-16T19:24:01.490468+01:00"
+generated: "2025-01-16T19:38:51.260165+01:00"
